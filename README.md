@@ -3,7 +3,7 @@
 <br>
 <p align="center"><a href="https://t.me/Wolfbotchatgroup"><img src="https://telegra.ph/WOLF-BOT-04-01"></a></p> 
 </p>
-<h1>BLACK LIGHTNING</h1>
+<h1>WOLF BOT</h1>
 <b>A Powerful, Smart And Simple Userbot In Telethon.</b>
 <br>
 <br>
@@ -71,32 +71,25 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 * Telegram [API Keys](https://my.telegram.org/apps)
 * String [Gernate from here](https://repl.it/@Anmol10H/Lightning-Repl#main.py)
 
-
-# How To
-
-<a href="https://youtu.be/xfHcm_e92eQ"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
-
-<a href="https://app.gitbook.com/@poxsisofficial/s/blackBlack Lightning /"><img src="https://img.shields.io/badge/Read%20More-GitBook-red.svg"></a>
-
 # Deploy
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KeinShin/Black-Lightning)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Youngchris150/Wolf-bot)
 
 # String
 
-[![Run on Repl.it](https://repl.it/badge/github/KeinShin/Black-Lightning&theme=midnight-purple)](https://repl.it/@Anmol10H/Lightning-Repl#main.py)
+[![Run on Repl.it](https://repl.it/badge/github/Youngchris150/Wolf-botI&theme=midnight-purple)](https://replit.com/@JakuJaka/Wolf-Bot-Repl)
 
 # The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github/KienShin/Black-Lightning.git
-cd Black Lightning 
+git clone https://github/Youngchris150/Wolf-bot.git
+cd Wolf Bot 
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
-python3 -m Black-Lightning
+python3 -m Wolf-bot
 ```
 
 
@@ -111,5 +104,5 @@ python3 -m Black-Lightning
     [-] APP_ID:   You can get this value from https://my.telegram.org
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The Lightning Bot will not work without setting the mandatory vars.
+[+] The Wolf Bot will not work without setting the mandatory vars.
 ```
