@@ -1,5 +1,5 @@
 
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/krish1303y">B乛LAC丨ᗩᑎᗰᗝᒪ ᔕᖇIᐯᗩᔕ丅ᗩᐯᗩ 🇮🇳 ⁪⁬⁮⁮⁮#ƈʏɮɛʀlєgєnds</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/misky98545">B乛WOLF</a></b></h2>
 <br>
 <p align="center"><a href="https://t.me/Wolfbotchatgroup"><img src="https://telegra.ph/WOLF-BOT-04-01"></a></p> 
 </p>
